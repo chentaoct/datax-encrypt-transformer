@@ -9,7 +9,7 @@ jdk 1.8
 
 #### 打包
 ```shell
-mvn clean package -DskipTests assmebly:assembly
+mvn clean package -DskipTests assembly:assembly
 ```
 
 #### 使用
